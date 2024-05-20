@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203041619241",
+    "project_id": "server-for-appp-forum",
+    "storage_bucket": "server-for-appp-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203041619241:android:2f493e25a7e3482a4e8b38",
+        "android_client_info": {
+          "package_name": "com.example.forum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAMtkAz8nxMDmVhJ-tlkSFte3nIGkTMa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

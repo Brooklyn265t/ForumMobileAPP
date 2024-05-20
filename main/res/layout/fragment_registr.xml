@@ -51,7 +51,8 @@
         android:text="Зарегистрировать"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:backgroundTint="#01888E"/>
 
     <Button
         android:id="@+id/toLogin"
@@ -61,7 +62,8 @@
         android:text="Войти"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:backgroundTint="#01888E"/>
 
     <TextView
         android:id="@+id/helptext"
