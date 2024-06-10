@@ -4,13 +4,20 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
+        android:id="@+id/program"
+        android:title="Programe"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/me"
+        android:title="aboutme"
+        android:icon="@android:drawable/ic_menu_help"
+        app:showAsAction="always" />
+
+    <item
         android:id="@+id/forum"
         android:icon="@drawable/article_24dp"
         android:title="aboutme"
         app:showAsAction="always" />
-<!--    <item-->
-<!--        android:id="@+id/profile"-->
-<!--        android:icon="@drawable/profile"-->
-<!--        android:title="profile"-->
-<!--        app:showAsAction="never" />-->
 </menu>
