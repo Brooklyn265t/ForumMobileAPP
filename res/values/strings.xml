@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Forum</string>
+    <string name="login_fragment"> </string>
+    <string name="register_fragment"> </string>
+    <string name="forum">Item1</string>
+    <string name="exit">Item2</string>
+    <string name="Username">Имя</string>
+    <string name="UserEmail">Почта</string>
+    <string name="UserRole">Роль</string>
+</resources>
